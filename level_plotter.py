@@ -2,8 +2,7 @@
 
 """
 Script to generate a plot from a simulator output file of a vdev variable
-Brad Reaves
-May 2011
+
 """
 
 from pylab import *
