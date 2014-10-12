@@ -3,7 +3,7 @@ Analysis
 
 Serial Port
 
-NEW MODIFICATIONS - 204:
+NEW MODIFICATIONS - 24:
 
 I edited the testbedinit.sh file to include downloading the python_simplejson. Might as well get everything we need.
 -I edited the two run scripts to have a "master" and "slave" specific script
