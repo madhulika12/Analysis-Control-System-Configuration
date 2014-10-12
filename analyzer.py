@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # vim: set tw=80:
 """
-analyzer.py
-Brad Reaves
-May 2011
-License: GPL v2
 
 This script is used to analyze and measure similarity between two or more 
 packet traces.
