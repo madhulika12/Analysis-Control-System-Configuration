@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # vim: set tw=80:
 """
-ascii2rtu.py
-Brad Reaves
-May 2011
-License: GPLv2
 
 This script reads a BR_MSU formated serial packet capture and can convert Modbus
 ASCII data to Modbus RTU format. 
