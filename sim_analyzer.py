@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # vim: set tw=80:
 """
-sim_analyzer.py
-Brad Reaves
-June 2011
 
 This script extracts process information from packet traces to compare the 
 effectiveness of virtual testbed process simulations to their lab counterparts.
